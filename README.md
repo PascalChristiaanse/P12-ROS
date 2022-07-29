@@ -1,3 +1,6 @@
+#**REPO HAS BEEN MOVED TO DOTROBOT FOLDER.**
+
+
 # P12 ROS
  Temporary repository for the ros based controller. Move to a DotRobot owned repo once someone has time/feels like it
 # Welcome to the P12 repository
